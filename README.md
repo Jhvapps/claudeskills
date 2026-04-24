@@ -8,9 +8,9 @@ Personal Claude Code skills repo. Each folder under `skills/` is a skill with a 
 
 1. Read the **Skill Index** below — match keywords, intent, and verbs in Jack's message to a skill's description.
 2. If a skill matches, open `skills/<name>/SKILL.md` in this repo for the full contract and follow it.
-3. Prefer invoking a skill over free-form reasoning when the domain fits (shipping code, QA, design, planning, security).
+3. Prefer invoking a skill over free-form reasoning when the domain fits (shipping, QA, design, planning, security, multi-agent, automation).
 4. If multiple skills could apply, pick the most specific one. If none fit, proceed normally.
-5. Skills named `plan-*` run **before** implementation; skills named after a verb (`ship`, `qa`, `review`) run **during or after**.
+5. Skills named `plan-*` run **before** implementation; verb-named skills (`ship`, `qa`, `review`) run **during or after**.
 
 ## 📚 Skill Index
 
@@ -23,6 +23,24 @@ Personal Claude Code skills repo. Each folder under `skills/` is a skill with a 
 - **[plan-eng-review](skills/plan-eng-review/SKILL.md)** — Eng manager-mode plan review.
 - **[plan-tune](skills/plan-tune/SKILL.md)** — Self-tuning question sensitivity + developer psychographic for gstack (v1: observational).
 - **[office-hours](skills/office-hours/SKILL.md)** — YC Office Hours — two modes.
+- **[sparc-methodology](skills/sparc-methodology/SKILL.md)** — SPARC development workflow: Specification, Pseudocode, Architecture, Refinement, Completion.
+- **[agent-goal-planner](skills/agent-goal-planner/SKILL.md)** — Agent skill for goal-planner - invoke with $agent-goal-planner
+
+### Multi-Agent & Swarms
+
+- **[hive-mind](skills/hive-mind/SKILL.md)** — Byzantine fault-tolerant consensus and distributed coordination.
+- **[hive-mind-advanced](skills/hive-mind-advanced/SKILL.md)** — Advanced Hive Mind collective intelligence system for queen-led multi-agent coordination with consensus mechanisms and persistent memory
+- **[swarm-orchestration](skills/swarm-orchestration/SKILL.md)** — Multi-agent swarm coordination for complex tasks.
+- **[agent-coordination](skills/agent-coordination/SKILL.md)** — Agent spawning, lifecycle management, and coordination patterns.
+- **[agent-queen-coordinator](skills/agent-queen-coordinator/SKILL.md)** — Agent skill for queen-coordinator - invoke with $agent-queen-coordinator
+- **[agent-orchestrator-task](skills/agent-orchestrator-task/SKILL.md)** — Agent skill for orchestrator-task - invoke with $agent-orchestrator-task
+
+### Automation & Workflows
+
+- **[workflow-automation](skills/workflow-automation/SKILL.md)** — Workflow creation, execution, and template management.
+- **[hooks-automation](skills/hooks-automation/SKILL.md)** — Automated coordination, formatting, and learning from Claude Code operations using intelligent hooks with MCP integration.
+- **[skill-builder](skills/skill-builder/SKILL.md)** — Create new Claude Code Skills with proper YAML frontmatter, progressive disclosure structure, and complete directory organization.
+- **[memory-management](skills/memory-management/SKILL.md)** — AgentDB memory system with HNSW vector search.
 
 ### Shipping & Deploy
 
@@ -98,6 +116,12 @@ claudeskills/
 3. Add a one-line entry under the right category in this README.
 4. Commit and push.
 
+## 📦 Sources
+
+- **gstack** — [garrytan/gstack](https://github.com/garrytan/gstack) (MIT)
+- **ruflo** — [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (selected multi-agent skills)
+- **personal** — original skills authored here
+
 ---
 
-**Total skills: 42** — maintained by Jack ([@Jhvapps](https://github.com/Jhvapps)).
+**Total skills: 54** — maintained by Jack ([@Jhvapps](https://github.com/Jhvapps)).
