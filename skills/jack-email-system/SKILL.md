@@ -1,9 +1,9 @@
 ---
-name: "Cold Email System"
+name: "Jack Email System"
 description: "Plan, write, and troubleshoot B2B cold email outreach the LeadGen Jay way. Use whenever building a cold email campaign, writing outreach copy or sequences, buying/setting up domains and mailboxes, building or cleaning lead lists, fixing spam/deliverability problems, scaling send volume, or reviewing why replies are low. Enforces the 3 Pillars (infrastructure, list, copy), the Triple Tap copy framework, and current deliverability rules."
 ---
 
-# Cold Email System
+# Jack Email System
 
 Distilled operating manual for B2B cold email outreach. Use it before writing a single line of copy or buying a single domain. It stops the most common ways campaigns die.
 
