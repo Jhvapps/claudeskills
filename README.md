@@ -69,6 +69,7 @@ Cross-references to keep in mind:
 - **[copywriting](skills/marketing/content-copy/copywriting/SKILL.md)** — When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages.
 - **[copy-editing](skills/marketing/content-copy/copy-editing/SKILL.md)** — When the user wants to edit, review, or improve existing marketing copy, or refresh outdated content.
 - **[cold-email](skills/marketing/content-copy/cold-email/SKILL.md)** — Write B2B cold emails and follow-up sequences that get replies.
+- **[cold-email-system](skills/cold-email-system/SKILL.md)** — Full cold-email outreach operating system (LeadGen Jay method): the 3 Pillars (infrastructure, list, copy), Triple Tap framework, deliverability recovery, tool stack, signals & automation. Use for the whole outreach machine — domains/mailboxes, list building, deliverability/spam fixes, scaling. Pairs with `cold-email` (which is just the copywriting).
 - **[email-sequence](skills/marketing/content-copy/email-sequence/SKILL.md)** — When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program.
 - **[social-content](skills/marketing/content-copy/social-content/SKILL.md)** — When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms.
 
