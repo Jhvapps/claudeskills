@@ -98,6 +98,10 @@ Cross-references to keep in mind:
 - **[competitor-profiling](skills/marketing/sales-gtm/competitor-profiling/SKILL.md)** — When the user wants to research, profile, or analyze competitors from their URLs.
 - **[directory-submissions](skills/marketing/sales-gtm/directory-submissions/SKILL.md)** — When the user wants to submit their product to startup, SaaS, AI, agent, MCP, no-code, or review directories for backlinks, domain rating, and discovery.
 
+### Finance & Fundraising
+
+- **[crowdfunding](skills/crowdfunding/SKILL.md)** — When Jack wants to plan, evaluate, or run a crowdfunding raise — equity, reward-based, community shares for a pub, or debt/revenue-based finance. Covers platform choice, fees, SEIS/EIS eligibility, marketing playbook, and named case studies.
+
 ### Planning & Strategy
 
 - **[autoplan](skills/autoplan/SKILL.md)** — Auto-review pipeline — reads the full CEO, design, eng, and DX review skills from disk and runs them sequentially with auto-decisions using 6 decision principles.
