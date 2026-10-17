@@ -102,6 +102,7 @@ Cross-references to keep in mind:
 
 - **[crowdfunding](skills/crowdfunding/SKILL.md)** — When Jack wants to plan, evaluate, or run a crowdfunding raise — equity, reward-based, community shares for a pub, or debt/revenue-based finance. Covers platform choice, fees, SEIS/EIS eligibility, marketing playbook, and named case studies.
 - **[decision-council](skills/decision-council/SKILL.md)** — Eight advisor lenses (Bezos, Hormozi, Gary Vee, Buffett, Wickman, Martell, Paul Graham, hospitality operator) score Jack's options, argue the disagreements, and return SIGN OFF / SIGN OFF WITH CONDITIONS / DO NOT SIGN OFF, written to the vault's 30 Decisions. Use for "should I", "sign this off", "council", "go or no-go". Quick mode for two-way doors, full parallel council for one-way doors.
+- **[ask-jack](skills/ask-jack/SKILL.md)** — The router. Read when unsure which skill fits or when Jack describes a job in plain English: maps idea → plan → build → ship, decisions, offers, leads, marketing, raises, bugs, security, design, media, automation and Halfseat engineering to the exact skill. Must be updated the day any skill changes.
 
 ### Planning & Strategy
 
