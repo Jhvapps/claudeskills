@@ -44,7 +44,7 @@ Any non-trivial ask starts with the Skill `mattpocock-skills:grilling`: rounds o
 - **Which channel first** → `core-four`. **Free offer to attract leads** → `lead-magnet`. **First customers from the network** → `warm-outreach`. **Audience engine** → `content-engine`.
 - **Cold email** (domains, lists, copy, deliverability, Instantly) → `jack-email-system`.
 - **Second opinion or a debate on marketing** → `marketing-council` (12 marketers incl. Hormozi, Gary Vee, Godin, Ogilvy).
-- **SEO** → `seo-audit`. **Showing up in AI answers** → `ai-seo`. **Any page or form not converting** (homepage, landing, pricing, lead capture) → `cro`. **Signup or onboarding flow** → `signup`, `onboarding`. (Old names `page-cro`, `form-cro`, `onboarding-cro`, `signup-flow-cro` were renamed upstream in marketingskills v2.0; `popups` and `paywalls` exist upstream but are not linked.)
+- **SEO** → `seo-audit`. **Showing up in AI answers** → `ai-seo`. **Any page or form not converting** (homepage, landing, pricing, lead capture) → `cro`. **Signup or onboarding flow** → `signup`, `onboarding`. **Popups and modals** → `popups`. **Paywalls and upgrade prompts** → `paywalls`. (Old names `page-cro`, `form-cro`, `popup-cro`, `paywall-upgrade-cro`, `onboarding-cro`, `signup-flow-cro` were renamed upstream in marketingskills v2.0; the parked copies are superseded.)
 - **Images, video, ads, UGC** → `higgsfield-generate`.
 - **Slides** → `marp-slides`.
 
