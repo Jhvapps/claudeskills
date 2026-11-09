@@ -33,7 +33,8 @@ Any non-trivial ask starts with the Skill `mattpocock-skills:grilling`: rounds o
 ## Offers, pricing, sales
 
 - **Build or rebuild an offer** → `hormozi-offer` (full system; the `hormozi-orchestrator` agent fans out to market, offer, pricing, value and sales sub-agents and writes OFFER.md, PRICING.md, PITCH.md etc.). Guided one-at-a-time version → `grand-slam-offer`.
-- **Offer exists but isn't converting** → `audit-offer`, then `value-perception`, `bonus-stack`, `objection-destroyer`, `effort-reduction`, `value-accelerator` as the audit points.
+- **Offer exists but isn't converting** → `offer-diagnosis` FIRST (is it even the offer, or is it traffic, product or the sales process? funnel leak maths from Jack's real numbers), then `audit-offer`, then `value-perception`, `bonus-stack`, `objection-destroyer`, `effort-reduction`, `value-accelerator` as the audit points.
+- **Before any offer copy, sales page, pitch or deck leaves the building** → `offer-honesty-check`. Traces every number and claim to something Jack can actually back up, labels it (yours) or (estimate), kills invented testimonials, fake scarcity, fake bonus values and crossed-out prices he never charged. Non-negotiable on anything investor-facing: Chef Pantry is mid-raise, Halfseat is investor-facing, Surf Collective is raising £5m.
 - **Price** → `pricing-strategy` or `value-equation`.
 - **Revenue structure, continuity, upsells, prepaid** → `money-model`, `productize`, `business-model`, `dfy-dwy-diy`.
 - **Pitch, hooks, landing copy** → `hormozi-pitch`, `hormozi-hooks`, `offer-angles`, `landing-page-copy`, `dream-outcome`.
@@ -46,6 +47,12 @@ Any non-trivial ask starts with the Skill `mattpocock-skills:grilling`: rounds o
 - **Second opinion or a debate on marketing** → `marketing-council` (12 marketers incl. Hormozi, Gary Vee, Godin, Ogilvy).
 - **SEO** → `seo-audit`. **Showing up in AI answers** → `ai-seo`. **Any page or form not converting** (homepage, landing, pricing, lead capture) → `cro`. **Signup or onboarding flow** → `signup`, `onboarding`. **Popups and modals** → `popups`. **Paywalls and upgrade prompts** → `paywalls`. (Old names `page-cro`, `form-cro`, `popup-cro`, `paywall-upgrade-cro`, `onboarding-cro`, `signup-flow-cro` were renamed upstream in marketingskills v2.0; the parked copies are superseded.)
 - **Images, video, ads, UGC** → `higgsfield-generate`.
+- **Watch or understand a video** (a link, a reel, a Short, a competitor's ad, Jack's own footage, a local file) → `watch-video`. Pulls real frames the agent looks at, plus a transcript. See the three-way split below.
+- **Animate something by code** (motion graphic, animated chart, explainer, title card, lower third, kinetic text, "make it move") → `remotion-best-practices`. The official Remotion skill, a router with 12 sub-skills behind it. React-based, so the video is source code: version-controlled, re-renderable, editable later. Free for Jack personally.
+
+- **Test a reel / will this get followers / score this video / put reels in the Drive** → `reel-test`. MANDATORY after every reel render, before any video goes to Jack (a hook blocks sending unscored videos). Virality Predictor, pass 60 overall / 50 hook, one rework round, then Drive folder + "Reel captions" sheet.
+
+**The three-way video split, do not mix them up:** `higgsfield-generate` MAKES AI video from a prompt. `watch-video` WATCHES existing video. `remotion-best-practices` ANIMATES by code.
 - **Slides** → `marp-slides`.
 
 ## Money and raises
